@@ -149,4 +149,8 @@ You should read and understand these short documents:
 
 [travis-ci-concepts]: https://docs.travis-ci.com/user/for-beginners/
 
+------
+### Status
+[![Build Status](https://travis-ci.com/theethaj/demo-pyci.svg?branch=master)](https://travis-ci.com/theethaj/demo-pyci)
+
 
