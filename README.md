@@ -1,5 +1,6 @@
 Continuous Integration Demo
 ============================
+[![Build Status](https://travis-ci.com/theethaj/demo-pyci.svg?branch=master)](https://travis-ci.com/theethaj/demo-pyci)
 
 This project demonstrates use of Travis CI to build and test a Python project.  
 You will create a repository on Github, then have Travis-CI pull and test it,
@@ -148,9 +149,4 @@ You should read and understand these short documents:
 [Building a Python Project](https://docs.travis-ci.com/user/languages/python/) with Travis CI. 
 
 [travis-ci-concepts]: https://docs.travis-ci.com/user/for-beginners/
-
-------
-### Status
-[![Build Status](https://travis-ci.com/theethaj/demo-pyci.svg?branch=master)](https://travis-ci.com/theethaj/demo-pyci)
-
 
